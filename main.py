@@ -1,7 +1,7 @@
 import streamlit as st
 from major_recomendation import major_recomendation
 
-st.title("Maya Bot")
+st.title("Chatbot Rekomendasi Jurusan")
 
 # Sidebar
 with st.sidebar:
